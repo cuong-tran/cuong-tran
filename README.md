@@ -3,7 +3,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cuong-tran&theme=monokai)](https://git.io/streak-stats)
 
 # Favorite Repos
-![Komikku](https://github-readme-stats.vercel.app/api/pin/?username=komikku-app&repo=komikku&theme=dracula&description_lines_count=2)
-![Komikku-Extensions](https://github-readme-stats.vercel.app/api/pin/?username=komikku-app&repo=komikku-extensions&theme=dracula&description_lines_count=2)
+[![Komikku](https://github-readme-stats.vercel.app/api/pin/?username=komikku-app&repo=komikku&theme=dracula&description_lines_count=2)](https://github.com/komikku-app/komikku)
+[![Komikku-Extensions](https://github-readme-stats.vercel.app/api/pin/?username=komikku-app&repo=komikku-extensions&theme=dracula&description_lines_count=2)](https://github.com/komikku-app/komikku-extensions)
 
 [![](https://visitcount.itsvg.in/api?id=cuong-tran&label=Profile%20Views&color=2&icon=5&pretty=true)](https://visitcount.itsvg.in)
