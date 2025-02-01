@@ -6,6 +6,6 @@
 # Favorite Repos
 [![Komikku](https://github-readme-stats.vercel.app/api/pin/?username=komikku-app&repo=komikku&theme=dracula&description_lines_count=2)](https://github.com/komikku-app/komikku)
 
-** Visitor Count **
+**Visitor Count**
 
 ![Visitor Count](https://count.getloli.com/get/@cuong-tran?theme=capoo-2)
