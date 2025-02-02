@@ -5,6 +5,7 @@
 
 # Favorite Repos
 [![Komikku](https://github-readme-stats.vercel.app/api/pin/?username=komikku-app&repo=komikku&theme=dracula&description_lines_count=2)](https://github.com/komikku-app/komikku)
+[![Komikku-repo](https://github-readme-stats.vercel.app/api/pin/?username=komikku-repo&repo=komikku-extensions&theme=dracula&description_lines_count=2)](https://github.com/komikku-repo/komikku-extensions)
 
 **Visitor Count**
 
