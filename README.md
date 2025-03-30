@@ -5,7 +5,9 @@
 
 # Favorite Repos
 [![Komikku](https://github-readme-stats.vercel.app/api/pin/?username=komikku-app&repo=komikku&theme=dracula&description_lines_count=2)](https://github.com/komikku-app/komikku)
-[![Komikku-repo](https://github-readme-stats.vercel.app/api/pin/?username=komikku-repo&repo=komikku-extensions&theme=dracula&description_lines_count=2)](https://github.com/komikku-repo/komikku-extensions)
+[![Anikku](https://github-readme-stats.vercel.app/api/pin/?username=komikku-app&repo=anikku&theme=dracula&description_lines_count=2)](https://github.com/komikku-app/anikku)
+[![Zosetsu-tachi](https://github-readme-stats.vercel.app/api/pin/?username=zosetsu-repo&repo=tachiyomi-extensions&theme=dracula&description_lines_count=2)](https://github.com/zosetsu-repo/tachiyomi-extensions)
+[![Zosetsu-ani](https://github-readme-stats.vercel.app/api/pin/?username=zosetsu-repo&repo=aniyomi-extensions&theme=dracula&description_lines_count=2)](https://github.com/zosetsu-repo/aniyomi-extensions)
 
 **Visitor Count**
 
