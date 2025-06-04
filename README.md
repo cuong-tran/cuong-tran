@@ -9,7 +9,7 @@
 [![Yuzōnō Manga](https://github-readme-stats.vercel.app/api/pin/?username=yuzono&repo=tachiyomi-extensions&theme=dracula&description_lines_count=2)](https://github.com/yuzono/tachiyomi-extensions)
 [![Yuzōnō Anime](https://github-readme-stats.vercel.app/api/pin/?username=yuzono&repo=aniyomi-extensions&theme=dracula&description_lines_count=2)](https://github.com/yuzono/aniyomi-extensions)
 
-[![Buy me a coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=cuongtrantm&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://github.com/komikku-app/komikku/releases/latest)
+[![Sponsor me on GitHub](https://custom-icon-badges.demolab.com/badge/-Sponsor-ea4aaa?style=for-the-badge&logo=heart&logoColor=white)](https://github.com/sponsors/cuong-tran "Sponsor me on GitHub")
 
 **Visitor Count**
 
